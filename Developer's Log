@@ -1,0 +1,29 @@
+Log
+
+v_1
+can do basic operation on number
+
+v_2
+added instructions 
+
+v_3
+cleaned code or you could say made it more readable and understable.
+
+v_4
+trignometric functions and exponents added
+cleaned code more
+made debugging cleaner
+
+notes:-
+# Understand the code as no command is getting activated yet it is giving result (Sol:- seems like raw_input was needed most probably code is in python 2 tho raw_input will solve the version problem)
+# Added exponent operation
+# Added sin cos tan
+# code is again capable to do more than 1 operation
+# all operation with negative need correction
+# correct trignometic trriger
+# Explanation need revision
+# Make algebra of trignometry work
+
+v_5
+
+
